@@ -47,10 +47,12 @@ accounts for significant unexplained variance. Model performs best in the
 0–1% yield loss range where 75% of batches fall.
 
 ## Structure
-├── 01_eda.ipynb
-├── 02_model.ipynb        
-├── README.md
-└── .gitignore
+| File | Content |
+|--------|-------|
+| 01_eda.ipynb  | EDA, feature engineering, step-yield correlation |
+| 02_model.ipynb | Random Forest model, feature importance, evaluation |
+| README.md |  |
+| .gitignore |  |
 
 ## Skills
 
